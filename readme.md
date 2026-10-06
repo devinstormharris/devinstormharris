@@ -1,6 +1,6 @@
 # Welcome to my GitHub! 👋🏽
 
- I'm a full-stack software engineer. I spend my days building enterprise applications at Cellular Sales.
+ I'm a full-stack software engineer. I spend my days building enterprise applications at ORNL.
  
 # Outside of programming, I like to:
 
